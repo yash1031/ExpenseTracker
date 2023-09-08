@@ -1,0 +1,57 @@
+.top-fold{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.home-topFold{
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.searchBar{
+    border-radius: 10px;
+    background-color: white; 
+    width: 52%;
+}
+
+.searchBar input{
+    height: 30px;
+    border: none;
+    outline: none;
+    width: 88%;
+    font-size: 17px;
+}
+
+.searchBar i{
+    /* display: flex;
+    align-items: center; */
+    margin: 0px 6px;
+}
+
+.add-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    border: 1px solid white;
+    border-radius: 6px;
+    padding: 1px 16px;
+}
+
+.add-topFold{
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+/* .add-topFold-btn{
+    Center the content
+}
+
+.add-topFold-btn i{
+    center the content
+} */

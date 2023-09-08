@@ -1,0 +1,46 @@
+/* .ReactModal__Content{
+    background-color: aqua;
+} */
+
+.modal-inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.modal-inner label{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.added-image{
+    height: 250px;
+}
+
+.take-home-button{
+    width: 50%;
+    display: flex;
+    margin: 13px auto;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 25px;
+    border-radius: 7px;
+    padding: 8px;
+    background-color: aqua;
+}
+
+.take-home-button img{
+    height: 30px;
+    width: 35px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .added-image {
+        height: 320px;
+    }
+}
+@media only screen and (max-width: 512px) {
+    .home {
+        height: 240px;
+    }
+}
