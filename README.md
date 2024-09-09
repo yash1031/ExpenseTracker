@@ -13,7 +13,7 @@ FUNCTIONS
 	- Local storage is used to store the data throughout the lifetime of a particular browser.
  
 BENEFITS AND USAGE
-   
+
 	- Users can keep note of the items that are intended to be bought in future.    
 	- When the user is out shopping, this app can serve as a small slip where all the items to be bought are listed in a smart visual way.    
 	- And since a web app is responsive, be it a smart phone screen, an ipad, a tab or a personal computer, application is accessible smoothly all across.
